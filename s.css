@@ -1,0 +1,54 @@
+body { 
+  background: url(background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.faded{
+	color: rgba(255,255,255,0.8);
+	font-family: 'Oswald', sans-serif;
+}
+
+.about{
+	color:rgba(255,255,255,0.8);
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+}
+
+header.startup{
+	background-position: center;
+	height: 100%;
+}
+
+header.startup{
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+
+h1:hover{
+	
+}
+.btn-info{
+	border-radius: 200px;
+	background-position: center;
+	padding: 0.5rem 3rem 0.5rem 3rem;
+	
+}
+
+.btn-info:hover{
+	font-family: 'EB Garamond', serif;
+	background-color: #C40D0D;
+	border-radius: 200px;
+}
+
+.hr{
+	color: white;
+}
+
+.nav{
+	font-family: 'EB Garamond', serif;
+
+}
+
